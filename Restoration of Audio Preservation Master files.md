@@ -1,4 +1,4 @@
-## Audio Preservation Master File workflow for lateral-cut discs: mono analog disc recordings which have been transferred and reformatted in the “stereo” mode.
+## Workflow for processing audio preservation master files of mono lateral-cut analog discs which have been transferred in the stereo mode.
 
 Audio Preservation Master files of mono lateral-cut shellac, vinyl and lacquer discs are produced by transfering and capturing the disc's signal in the "stereo" mode.  This approach allows restorers the opportunity to perform specific digital signal processes on the Audio Preservation Master files that would be impossible had the discs been transfered in the "mono" mode; these process include phase correction, groove-wall balance, and the ability to select/eliminate specific groove wall signals should damage occur in one or the other.
 
