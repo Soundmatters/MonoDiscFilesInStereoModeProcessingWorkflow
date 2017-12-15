@@ -17,7 +17,7 @@ lower its gain to -6db.
 
 1. Reverse the phase on the first track’s mixer strip.  
 
-1. Nudge the gain, plus or minus, on the first mixer strip to null the signal [Ideally, this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].   
+1. Nudge the fader gain, plus or minus, on the first mixer strip tuntil the has been nulled or is as near to null as possible [Ideally, this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].   
 
 1. Return the phase on the first mixer strip to the normal position [Ideally, this new balance between the Left and Right channels will completely cancel the vertical component of the signal, leaving only the lateral component –which is the intended signal].   
 
