@@ -1,4 +1,4 @@
-##Rendering mono files from Audio Preservation Master files of lateral-cut mono discs.
+## Rendering mono files from Audio Preservation Master files of lateral-cut mono discs.
 
 Audio Preservation Master files of mono, lateral-cut shellac, vinyl and lacquer analog discs are produced by transfering and capturing the disc's signal in the "stereo" mode.  This method produces discrete signals from the disc's left and right groove walls, and allows restorers the opportunity to perform specific digital signal processes --including phase correction-- that would be impossible had the discs been transfered in the "mono" mode.
 
@@ -6,7 +6,7 @@ The following workflow for processing an analog disc Preservation Master file wi
 
 The DAW illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11  
 
-###Workflow
+### Workflow
 
 1)	Load the Preservation Master file into the DAW
 
