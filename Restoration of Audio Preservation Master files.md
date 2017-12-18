@@ -1,26 +1,39 @@
-## Workflow for processing audio Preservation Master files of mono lateral-cut analog discs which have been transferred in the stereo mode.
+##Rendering mono files from Audio Preservation Master files of lateral-cut mono discs.
 
-Audio Preservation Master files of mono lateral-cut shellac, vinyl and lacquer discs are produced by transfering and capturing the disc's signal in the "stereo" mode.  This approach allows restorers the opportunity to perform specific digital signal processes on the Audio Preservation Master files that would be impossible had the discs been transfered in the "mono" mode; these process include phase correction, groove-wall balance, and the ability to select/eliminate specific groove wall signals should damage occur in one or the other.
+Audio Preservation Master files of mono, lateral-cut shellac, vinyl and lacquer analog discs are produced by transfering and capturing the disc's signal in the "stereo" mode.  This method produces discrete signals from the disc's left and right groove walls, and allows restorers the opportunity to perform specific digital signal processes --including phase correction-- that would be impossible had the discs been transfered in the "mono" mode.
 
-The following workflow for processing the Audio Preservation Master file will optimize its lateral signal, eliminate its vertical signal, reduce any phase problems which may have occured in the disc cutting or transfer, and will render a file with a mono soundfield.  
+The following workflow for processing an analog disc Preservation Master file will optimize its lateral signal, eliminate any vertical signal, reduce phase problems which may have occured in the cutting or transfer of the disc, and will render a 2-channel file with a mono soundfield.
 
+The DAW illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11  
 
-1. Load the Preservation Master file into the DAW.   
+###Workflow
 
-1. Run the phase correction process on the Preservation Master file.  
+1)	Load the Preservation Master file into the DAW
 
-1. Put the new phase-corrected file’s Left channel in the first track of the multi-track DAW; 1) pan the track’s mixer strip in the center position, and 2)
-lower its gain to -6db.   
+2)	Run the phase correction process on the Preservation Master file, as needed
 
-1. Put the phase corrected file’s Right channel in the second track of the multi-track DAW; 1) pan the track’s mixer strip in the center position, and 2)
-lower its gain to -6db. 
+ADD IMAGE
 
-1. Reverse the phase on the first track’s mixer strip.  
+3)	Put the new phase-corrected file’s Left channel in the first track of the multi-track DAW:  
 
-1. Nudge the fader gain, plus or minus, on the first mixer strip tuntil the has been nulled or is as near to null as possible [Ideally, this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].   
+* pan the track’s mixer strip to the center, or 0, position  
+* lower the track’s mixer strip to -3db.
 
-1. Return the phase on the first mixer strip to the normal position [Ideally, this new balance between the Left and Right channels will completely cancel the vertical component of the signal, leaving only the lateral component –which is the intended signal].   
+4)	Put the phase corrected file’s Right channel in the second track of the multi-track DAW: 
 
-1. Render a new mono file from the mix.  
+* pan the track’s mixer strip to the center, or 0, position  
+* lower the track’s mixer strip to -3db.
 
-1. Continue with any other restoration signal processes (de-click, etc.) as needed.  
+ADD IMAGE
+
+5)	Reverse the polarity on the Track 1's mixer strip; leave the polarity of Track 2's mixer strip in the normal position
+
+ADD Image
+
+6)	Nudge the fader gain, plus or minus by tenths of a dB, on Track 1's mixer strip until the resulting mixed signal is as near to null as possible [Ideally, this this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].
+
+7)	Return the polarity to the normal position on Track 1's mixer strip.  Leave Track 1's fader at the setting made in step 6 above. [Ideally, this new balance will completely cancel the vertical component of the signal, and optimize the lateral component –which is the intended signal].
+
+8)	Render a new 2-channel mono file from the mix
+
+9)	Continue with other restoration signal processes (de-click, etc.) as needed
