@@ -26,7 +26,7 @@ File example with the Left and Right channels revealed.
 
 ![File with left and right channels revealed](MonoDisc_1.JPG)  
 
-Multitrack example with the files Right channel in Track 1 and its Left channel in Track 2.    
+Multitrack example with the file's Right channel in Track 1 and its Left channel in Track 2.    
 
 ![tracks 1 and 2](MonoDisc_2a.jpg)
 
