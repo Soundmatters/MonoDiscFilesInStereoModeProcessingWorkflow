@@ -12,7 +12,7 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 
 2)	Run the phase correction process on the Preservation Master file, as needed
 
-ADD IMAGE
+<p align="center">  ![File with left and right channels revealed](desktop/MonoDisc_1.JPG)
 
 3)	Put the new phase-corrected file’s Left channel in the first track of the multi-track DAW:  
 
@@ -24,13 +24,13 @@ ADD IMAGE
 * pan the track’s mixer strip to the center, or 0, position  
 * lower the track’s mixer strip to -3db.
 
-ADD IMAGE
+![](desktop/MonoDisc_2a.JPG)
 
 5)	Reverse the polarity on the Track 1's mixer strip; leave the polarity of Track 2's mixer strip in the normal position
 
-ADD Image
+<p align="center"> ![Mixer strips set for lateral cancelation](desktop/MonoDisc_3.JPG)
 
-6)	Play the file and nudge the fader gain, plus or minus tenths of a dB, on Track 1's mixer strip until the resulting output mixed signal is as near to null as possible [Ideally, this this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].
+6)	Play the file and nudge the fader gain, plus or minus tenths of a dB, on Track 1's mixer strip until the resulting output of the mixed L and R signal is as near to null as possible [Ideally, this this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].
 
 7)	Return the polarity to the normal position on Track 1's mixer strip.  Leave Track 1's fader at the setting made in step 6 above. [Ideally, this new balance will completely cancel the vertical component of the signal, and optimize the lateral component of the signal –which is the intended signal].
 
