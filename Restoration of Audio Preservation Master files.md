@@ -14,7 +14,11 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 
 File example with the Left and Right channels revealed.
 
-![File with left and right channels revealed](MonoDisc_1.JPG)
+![File with left and right channels revealed](MonoDisc_1.JPG)  
+
+Multitrack example with the files Right channel in Track 1 and its Left channel in Track 2.    
+
+![tracks 1 and 2](MonoDisc_2a.jpg)
 
 3)	Put the new phase-corrected file’s Left channel in the first track of the multi-track DAW:  
 
@@ -25,10 +29,6 @@ File example with the Left and Right channels revealed.
 
 * pan the track’s mixer strip to the center, or 0, position  
 * lower the track’s mixer strip to -3db.   
-
-Multitrack example with the files Right channel in Track 1 and its Left channel in Track 2.    
-
-![tracks 1 and 2](MonoDisc_2a.jpg)
 
 5)	Reverse the polarity on the Track 1's mixer strip; leave the polarity of Track 2's mixer strip in the normal position.   
 
