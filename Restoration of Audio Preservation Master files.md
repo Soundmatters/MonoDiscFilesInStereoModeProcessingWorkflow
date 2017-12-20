@@ -24,7 +24,7 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 * pan the track’s mixer strip to the center, or 0, position  
 * lower the track’s mixer strip to -3db.
 
-![tracks 1 and 2](MonoDisc_2a)
+![tracks 1 and 2](MonoDisc_2a.jpg)
 
 5)	Reverse the polarity on the Track 1's mixer strip; leave the polarity of Track 2's mixer strip in the normal position
 
