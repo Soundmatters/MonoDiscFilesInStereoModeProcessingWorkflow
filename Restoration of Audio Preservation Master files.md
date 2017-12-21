@@ -2,7 +2,7 @@
 
 Audio Preservation Master files of mono, lateral-cut analog discs (shellac, vinyl, lacquer, etc.) are produced by transfering and capturing the disc's signal in the "stereo" mode.  This method produces discrete signals from the disc's left and right groove walls, which allows restorers the opportunity to perform specific digital signal processes --including phase correction-- that would be impossible had the discs been transfered in the "mono" mode.  
 
-These disc Presrvation Master files require addtionion processing to produce their Presentation Masters. The following workflow will will sum the left and right groove wall signals, optimize the lateral signal, eliminate the vertical signal, reduce phase problems which may have occured in the cutting or transfer of the disc, and will render with file with a mono soundfield.
+Because the stereo mode also captures verticle signal, these Presrvation Master files require addtional processing to produce their Presentation Masters. The following workflow will will sum the left and right groove wall signals, optimize the lateral signal, eliminate the vertical signal, reduce phase problems which may have occured in the cutting or transfer of the disc, and will render with file with a mono soundfield.
 
 The Digital Audio Workstation illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11  
 
@@ -17,7 +17,7 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 * pan Track 1's mixer strip to the center, or 0, position  
 * lower Track 1's mixer strip to -3db.
 
-4)	Put the phase corrected file’s Right channel in Track 2's of the multi-track DAW: 
+4)	Put the phase corrected file’s Right channel in Track 2 of the multi-track DAW: 
 
 * pan Track 2's mixer strip to the center, or 0, position  
 * lower Track 2's mixer strip to -3db.    
