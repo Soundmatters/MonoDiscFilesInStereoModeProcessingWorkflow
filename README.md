@@ -1,2 +1,2 @@
 # MonoDiscFilesInStereoModeProcessingWorkflow
-Describes the workflow for processing audio preservation master files of mono lateral analog discs transferred in the stereo mode.
+Describes the workflow for producing Presentation Masters from Audio Preservation Master files of mono, lateral-cut, analog discs.
