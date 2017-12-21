@@ -1,4 +1,4 @@
-## Rendering Mono Audio Presentation files from Audio Preservation Master files of lateral-cut mono discs.
+## Producing Presentation files for Audio Preservation Master files of lateral-cut mono discs.
 
 Audio Preservation Master files of mono, lateral-cut analog discs (shellac, vinyl, lacquer, etc.) are produced by transfering and capturing the disc's signal in the "stereo" mode.  This method produces discrete signals from the disc's left and right groove walls, which allows restorers the opportunity to perform specific digital signal processes --including phase correction-- that would be impossible had the discs been transfered in the "mono" mode.  
 
@@ -20,12 +20,16 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 4)	Put the phase corrected file’s Right channel in Track 2 of the multi-track DAW: 
 
 * pan Track 2's mixer strip to the center, or 0, position  
-* lower Track 2's mixer strip to -3db.    
+* lower Track 2's mixer strip to -3db.  
+  
+  
 
 File example with the Left and Right channels revealed.
 
 ![File with left and right channels revealed](MonoDisc_1.JPG)
 
+
+    
 Multitrack example with the file's Right channel in Track 1 and its Left channel in Track 2.    
 
 ![tracks 1 and 2](MonoDisc_2a.jpg)
