@@ -23,23 +23,28 @@ The Digital Audio Workstation illustrations in the following workflow descriptio
 * lower Track 2's mixer strip to -3db.  
   
   
-
-Example: file with the Left and Right channels revealed.
+---
+*Example: file with the Left and Right channels revealed*
 
 <p align="center"><img src="MonoDisc_1.JPG" /></p>
 
 
     
-Example: file's Right channel in Track 1 and its Left channel in Track 2 of a multitrack session.    
+*Example: file's Right channel in Track 1 and its Left channel in Track 2 of a multitrack session*    
 
-![tracks 1 and 2](MonoDisc_2a.jpg)
+![tracks 1 and 2](MonoDisc_2a.jpg). 
 
-5)	Reverse the polarity on the Track 1's mixer strip; leave the polarity of Track 2's mixer strip in the normal position.   
+---
+5)	Reverse the polarity on the Track 1's mixer strip; leave the polarity of Track 2's mixer strip in the normal position.  
 
-Example: mixer strips with adjustments made to the polarity, panning, and level.   
+---
+
+*Example: mixer strips with adjustments made to the polarity, panning, and level*   
 
 
-<p align="center"><img src="MonoDisc_3.JPG" /></p>
+<p align="center"><img src="MonoDisc_3.JPG" /></p>.  
+
+---
 
 6)	Play the file and nudge Track 1's fader gain, plus or minus tenths of a dB, until the resulting output of Track 1 and 2 is as near to null as possible [Ideally, this this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].
 
