@@ -1,8 +1,8 @@
-## Producing Presentation files for Audio Preservation Master files of lateral-cut mono discs.
+## Producing Presentation (access) files from Audio Preservation Master files of lateral-cut mono discs.
 
 Audio Preservation Master files of mono, lateral-cut analog discs (shellac, vinyl, lacquer, etc.) are produced by transfering the signal using the phono pre-amp'sin "stereo" mode and capturing the signal as a two-channel file.  This method produces discrete signals from the disc's left and right groove walls, which allows restorers the opportunity to perform specific digital signal processes --including phase correction-- that would be impossible had the discs been transfered in the "mono" mode.  
 
-Because the pre-amp's "stereo" mode also produces a verticle signal from the disc (mostly rumble and surface noise, with little or none of the recording's intended signal), these Presrvation Master files require addtional processing to produce their Presentation (access) Masters. The following workflow will sum the file's left and right groove wall signals, optimize the lateral signal, eliminate the vertical signal, reduce phase problems which may have occured in the cutting or transfer of the disc, and will render with file with a mono soundfield.
+Because the pre-amp's "stereo" mode also produces a verticle signal from the disc (mostly rumble and surface noise, with little or none of the recording's intended signal), these Presrvation Master files require addtional processing to produce their Presentation (access) Masters. The following workflow will sum the file's left and right groove wall signals, optimize the lateral signal portion of the signal, eliminate the vertical portion of the signal, reduce phase problems which may have occured in the cutting, pressing or transfer of the disc, and will render a file with a mono soundfield.
 
 The Digital Audio Workstation (DAW) illustrations in the following workflow description have been taken from Adobe Audition CC, 10.1.1.11  
 
