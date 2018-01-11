@@ -46,9 +46,9 @@ The Digital Audio Workstation (DAW) illustrations in the following workflow desc
 
 ---
 
-6)	Play the file and nudge Track 1's fader gain, plus or minus tenths of a dB, until the resulting output of Track 1 and 2 is as near to null as possible [Ideally, this this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].
+6)	Play the file and nudge Track 1's fader gain, plus or minus tenths of a dB at a time, until the resulting output of Track 1 and 2 is as near to null as possible [Ideally, this this adjustment will completely cancel the lateral component of the signal, leaving only the vertical component –which is mostly rumble, noise, and some clicks and pops].
 
-7)	Return the polarity to the normal position on Track 1's mixer strip.  Leave Track 1's fader at the setting made in step 6 above. [Ideally, this new balance will completely cancel the vertical component of the signal, and optimize the lateral component of the signal –which is the intended signal].
+7)	Return the polarity to the normal position on Track 1's mixer strip.  Leave Track 1's fader at the setting made above, in step 6. [Ideally, this new balance will completely eliminate the vertical component of the signal, and optimize the lateral component of the signal –which is the intended signal].
 
 8)	Render a new mono file from the mix
 
